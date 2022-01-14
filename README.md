@@ -12,7 +12,7 @@
 
 Projeto realizado no maratona Discover da Rocketseat, a fim de aprimorar os conhecimentos em javascript.
 <br><br>
-Link do projeto: dev-finance-vert.vercel.app
+Link do projeto: https://dev-finance-vert.vercel.app/
 
 ### 🛠 Tecnologias
 
