@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/dev.finance.png" alt="Foto do projeto" height="300" width="400">
+  <img src="_imagens/dev.finance.png" alt="Foto do projeto" height="320">
 </div>
 
 ---
